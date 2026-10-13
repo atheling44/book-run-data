@@ -7,3 +7,4 @@
 | `status.json` | 매일 새벽 점검 결과 — 지금 고장 난 도서관 사이트. 앱은 고칠 때까지 그 도서관을 정보나루(전날 기준)로 봅니다 |
 | `sites.json` · `libraries.json` | 도서관 사이트 설정과 도서관 목록(앱에 든 것과 같은 것). 고쳤을 때만 올라갑니다 |
 | `alerts/` | 알릴 게 있는 날의 점검 요약 → 이슈로 만들어 알림이 갑니다 |
+| `privacy.html` | 앱 개인정보처리방침 — https://atheling44.github.io/book-run-data/privacy.html |
