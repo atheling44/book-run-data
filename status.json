@@ -1,14 +1,14 @@
 {
- "date": "2026-10-22",
- "checkedAt": "2026-10-22T07:01+09:00",
+ "date": "2026-10-23",
+ "checkedAt": "2026-10-23T07:02+09:00",
  "sites": {
-  "강동구": {
-   "why": "검색 결과가 0권",
-   "since": "2026-10-14"
-  },
   "lib.gyeryong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-10-14"
+  },
+  "lib.eumseong.go.kr": {
+   "why": "응답 없음 (HTTP 404)",
+   "since": "2026-10-23"
   }
  },
  "libraries": {
