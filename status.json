@@ -1,10 +1,22 @@
 {
- "date": "2026-10-24",
- "checkedAt": "2026-10-24T07:03+09:00",
+ "date": "2026-10-25",
+ "checkedAt": "2026-10-25T07:00+09:00",
  "sites": {
+  "gaplib.go.kr": {
+   "why": "응답 없음 (도서관 응답이 너무 늦어요)",
+   "since": "2026-10-25"
+  },
   "lib.gyeryong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-10-14"
+  },
+  "gjl.gimje.go.kr": {
+   "why": "검색 결과가 0권",
+   "since": "2026-10-25"
+  },
+  "lib.imsil.go.kr": {
+   "why": "응답 없음 (fetch failed · CERT_HAS_EXPIRED)",
+   "since": "2026-10-25"
   },
   "lib.eumseong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
