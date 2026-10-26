@@ -1,18 +1,10 @@
 {
- "date": "2026-10-26",
- "checkedAt": "2026-10-26T07:00+09:00",
+ "date": "2026-10-27",
+ "checkedAt": "2026-10-27T07:06+09:00",
  "sites": {
-  "동작구": {
-   "why": "응답 없음 (fetch failed · ENOTFOUND)",
-   "since": "2026-10-26"
-  },
   "lib.gyeryong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-10-14"
-  },
-  "lib.imsil.go.kr": {
-   "why": "응답 없음 (fetch failed · CERT_HAS_EXPIRED)",
-   "since": "2026-10-25"
   },
   "lib.eumseong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
