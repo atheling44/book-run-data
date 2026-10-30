@@ -1,14 +1,18 @@
 {
- "date": "2026-10-30",
- "checkedAt": "2026-10-30T07:01+09:00",
+ "date": "2026-10-31",
+ "checkedAt": "2026-10-31T07:02+09:00",
  "sites": {
-  "lib.ddc.go.kr": {
-   "why": "응답 없음 (도서관 응답이 너무 늦어요)",
-   "since": "2026-10-30"
+  "강서구": {
+   "why": "응답 없음 (fetch failed · EAI_AGAIN)",
+   "since": "2026-10-31"
   },
   "lib.yangsan.go.kr": {
    "why": "검색 결과가 0권",
    "since": "2026-10-30"
+  },
+  "taean.go.kr": {
+   "why": "응답 없음 (도서관 응답이 너무 늦어요)",
+   "since": "2026-10-31"
   },
   "lib.gyeryong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
