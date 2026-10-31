@@ -1,11 +1,7 @@
 {
- "date": "2026-10-31",
- "checkedAt": "2026-10-31T07:02+09:00",
+ "date": "2026-11-01",
+ "checkedAt": "2026-11-01T07:00+09:00",
  "sites": {
-  "강서구": {
-   "why": "응답 없음 (fetch failed · EAI_AGAIN)",
-   "since": "2026-10-31"
-  },
   "lib.yangsan.go.kr": {
    "why": "검색 결과가 0권",
    "since": "2026-10-30"
@@ -17,6 +13,10 @@
   "lib.gyeryong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-10-14"
+  },
+  "yslib.yeosu.go.kr": {
+   "why": "응답 없음 (도서관 응답이 너무 늦어요)",
+   "since": "2026-11-01"
   },
   "lib.eumseong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
