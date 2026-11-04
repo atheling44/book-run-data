@@ -1,6 +1,6 @@
 {
- "date": "2026-11-04",
- "checkedAt": "2026-11-04T07:00+09:00",
+ "date": "2026-11-05",
+ "checkedAt": "2026-11-05T07:01+09:00",
  "sites": {
   "lib.yangsan.go.kr": {
    "why": "검색 결과가 0권",
@@ -9,6 +9,10 @@
   "gongjulib.go.kr": {
    "why": "응답 없음 (HTTP 400)",
    "since": "2026-11-04"
+  },
+  "dangjin.go.kr": {
+   "why": "응답 없음 (fetch failed · ECONNREFUSED)",
+   "since": "2026-11-05"
   },
   "taean.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
@@ -21,6 +25,10 @@
   "yslib.yeosu.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-11-01"
+  },
+  "lib.jincheon.go.kr": {
+   "why": "응답 없음 (HTTP 404)",
+   "since": "2026-11-05"
   },
   "lib.eumseong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
