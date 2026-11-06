@@ -1,6 +1,6 @@
 {
- "date": "2026-11-06",
- "checkedAt": "2026-11-06T07:02+09:00",
+ "date": "2026-11-07",
+ "checkedAt": "2026-11-07T07:02+09:00",
  "sites": {
   "lib.yangsan.go.kr": {
    "why": "검색 결과가 0권",
@@ -13,6 +13,22 @@
   "dangjin.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
    "since": "2026-11-05"
+  },
+  "hongsanlib.or.kr": {
+   "why": "응답 없음 (HTTP 404)",
+   "since": "2026-11-07"
+  },
+  "seosan.go.kr": {
+   "why": "응답 없음 (fetch failed · ECONNREFUSED)",
+   "since": "2026-11-07"
+  },
+  "library.geumsan.go.kr": {
+   "why": "응답 없음 (도서관 응답이 너무 늦어요)",
+   "since": "2026-11-07"
+  },
+  "cheonan.go.kr": {
+   "why": "응답 없음 (fetch failed · ECONNRESET)",
+   "since": "2026-11-07"
   },
   "taean.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
