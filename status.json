@@ -1,6 +1,6 @@
 {
- "date": "2026-11-10",
- "checkedAt": "2026-11-10T07:06+09:00",
+ "date": "2026-11-11",
+ "checkedAt": "2026-11-11T07:01+09:00",
  "sites": {
   "lib.yangsan.go.kr": {
    "why": "검색 결과가 0권",
@@ -49,6 +49,10 @@
   "lib.eumseong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-10-23"
+  },
+  "michuhollib.go.kr": {
+   "why": "응답 없음 (fetch failed · EAI_AGAIN)",
+   "since": "2026-11-11"
   },
   "usnl.or.kr": {
    "why": "검색 결과가 0권",
