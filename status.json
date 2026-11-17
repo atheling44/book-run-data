@@ -1,6 +1,6 @@
 {
- "date": "2026-11-17",
- "checkedAt": "2026-11-17T07:06+09:00",
+ "date": "2026-11-18",
+ "checkedAt": "2026-11-18T07:00+09:00",
  "sites": {
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
@@ -34,6 +34,10 @@
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-11-01"
   },
+  "lib.jangseong.go.kr": {
+   "why": "대출 상태를 못 읽음 (평소 100% → 0%) — 화면 짜임이 바뀐 듯",
+   "since": "2026-11-18"
+  },
   "lib.jincheon.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-11-05"
@@ -50,10 +54,6 @@
    "why": "검색 결과가 0권",
    "since": "2026-11-09"
   },
-  "lib.donggu.kr": {
-   "why": "검색 결과가 0권",
-   "since": "2026-11-17"
-  },
   "usdl.or.kr": {
    "why": "응답 없음 (HTTP 500)",
    "since": "2026-11-09"
@@ -61,6 +61,10 @@
   "org.jje.go.kr": {
    "why": "앱 업데이트 대기(0.9.79)",
    "since": "2026-11-15"
+  },
+  "lib.gurye.go.kr": {
+   "why": "앱 업데이트 대기(0.9.80)",
+   "since": "2026-11-17"
   }
  },
  "libraries": {
