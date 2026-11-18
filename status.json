@@ -1,6 +1,6 @@
 {
- "date": "2026-11-18",
- "checkedAt": "2026-11-18T07:00+09:00",
+ "date": "2026-11-19",
+ "checkedAt": "2026-11-19T07:01+09:00",
  "sites": {
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
@@ -33,10 +33,6 @@
   "yslib.yeosu.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-11-01"
-  },
-  "lib.jangseong.go.kr": {
-   "why": "대출 상태를 못 읽음 (평소 100% → 0%) — 화면 짜임이 바뀐 듯",
-   "since": "2026-11-18"
   },
   "lib.jincheon.go.kr": {
    "why": "응답 없음 (HTTP 404)",
