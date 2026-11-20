@@ -1,7 +1,11 @@
 {
- "date": "2026-11-20",
- "checkedAt": "2026-11-20T07:02+09:00",
+ "date": "2026-11-21",
+ "checkedAt": "2026-11-21T07:02+09:00",
  "sites": {
+  "은평구": {
+   "why": "응답 없음 (fetch failed · UND_ERR_SOCKET)",
+   "since": "2026-11-21"
+  },
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
    "since": "2026-11-13"
@@ -33,6 +37,10 @@
   "yslib.yeosu.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-11-01"
+  },
+  "yeongamlibsch.or.kr": {
+   "why": "검색 결과가 0권",
+   "since": "2026-11-21"
   },
   "lib.jincheon.go.kr": {
    "why": "응답 없음 (HTTP 404)",
