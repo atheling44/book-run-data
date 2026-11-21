@@ -1,11 +1,7 @@
 {
- "date": "2026-11-21",
- "checkedAt": "2026-11-21T07:02+09:00",
+ "date": "2026-11-22",
+ "checkedAt": "2026-11-22T07:00+09:00",
  "sites": {
-  "은평구": {
-   "why": "응답 없음 (fetch failed · UND_ERR_SOCKET)",
-   "since": "2026-11-21"
-  },
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
    "since": "2026-11-13"
