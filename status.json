@@ -1,10 +1,10 @@
 {
- "date": "2026-11-24",
- "checkedAt": "2026-11-24T07:06+09:00",
+ "date": "2026-11-25",
+ "checkedAt": "2026-11-25T07:00+09:00",
  "sites": {
-  "ysl.cng.go.kr": {
-   "why": "검색 결과가 0권",
-   "since": "2026-11-24"
+  "lib.uljin.go.kr": {
+   "why": "응답 없음 (fetch failed · UNABLE_TO_VERIFY_LEAF_SIGNATURE)",
+   "since": "2026-11-25"
   },
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
@@ -33,10 +33,6 @@
   "taean.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-10-31"
-  },
-  "gylife.jne.go.kr": {
-   "why": "검색 결과가 0권",
-   "since": "2026-11-24"
   },
   "yslib.yeosu.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
