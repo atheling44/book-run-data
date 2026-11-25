@@ -1,11 +1,7 @@
 {
- "date": "2026-11-25",
- "checkedAt": "2026-11-25T07:00+09:00",
+ "date": "2026-11-26",
+ "checkedAt": "2026-11-26T07:02+09:00",
  "sites": {
-  "lib.uljin.go.kr": {
-   "why": "응답 없음 (fetch failed · UNABLE_TO_VERIFY_LEAF_SIGNATURE)",
-   "since": "2026-11-25"
-  },
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
    "since": "2026-11-13"
@@ -34,6 +30,10 @@
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-10-31"
   },
+  "lib.sunchang.go.kr": {
+   "why": "응답 없음 (fetch failed · ECONNREFUSED)",
+   "since": "2026-11-26"
+  },
   "yslib.yeosu.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-11-01"
@@ -58,21 +58,13 @@
    "why": "검색 결과가 0권",
    "since": "2026-11-09"
   },
-  "library.seogu.gwangju.kr": {
-   "why": "검색 결과가 0권",
-   "since": "2026-11-24"
-  },
   "usdl.or.kr": {
    "why": "응답 없음 (HTTP 500)",
    "since": "2026-11-09"
   },
-  "org.jje.go.kr": {
-   "why": "앱 업데이트 대기(0.9.79)",
-   "since": "2026-11-15"
-  },
-  "lib.gurye.go.kr": {
-   "why": "앱 업데이트 대기(0.9.80)",
-   "since": "2026-11-17"
+  "library.seogu.gwangju.kr": {
+   "why": "앱 업데이트 대기(0.9.82)",
+   "since": "2026-11-25"
   }
  },
  "libraries": {},
