@@ -1,6 +1,6 @@
 {
- "date": "2026-11-27",
- "checkedAt": "2026-11-27T07:02+09:00",
+ "date": "2026-11-28",
+ "checkedAt": "2026-11-28T07:03+09:00",
  "sites": {
   "lib.nonsan.go.kr": {
    "why": "응답 없음 (fetch failed · ECONNREFUSED)",
@@ -26,6 +26,10 @@
    "why": "응답 없음 (fetch failed · ECONNRESET)",
    "since": "2026-11-07"
   },
+  "ysplib.go.kr": {
+   "why": "응답 없음 (fetch failed · UNABLE_TO_VERIFY_LEAF_SIGNATURE)",
+   "since": "2026-11-28"
+  },
   "taean.go.kr": {
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-10-31"
@@ -38,13 +42,13 @@
    "why": "응답 없음 (도서관 응답이 너무 늦어요)",
    "since": "2026-11-01"
   },
-  "yeongamlibsch.or.kr": {
-   "why": "검색 결과가 0권",
-   "since": "2026-11-21"
-  },
   "lib.jincheon.go.kr": {
    "why": "응답 없음 (HTTP 404)",
    "since": "2026-11-05"
+  },
+  "lib.gwe.go.kr": {
+   "why": "응답 없음 (fetch failed · UNABLE_TO_VERIFY_LEAF_SIGNATURE)",
+   "since": "2026-11-28"
   },
   "lib.eumseong.go.kr": {
    "why": "응답 없음 (HTTP 404)",
@@ -58,6 +62,10 @@
    "why": "검색 결과가 0권",
    "since": "2026-11-09"
   },
+  "lib.gwangsan.go.kr": {
+   "why": "응답 없음 (fetch failed · EAI_AGAIN)",
+   "since": "2026-11-28"
+  },
   "usdl.or.kr": {
    "why": "응답 없음 (HTTP 500)",
    "since": "2026-11-09"
@@ -67,11 +75,6 @@
    "since": "2026-11-25"
   }
  },
- "libraries": {
-  "울산광역시|동구|화정아이꿈누리도서관": {
-   "why": "이 도서관으로 찾았는데 다른 이름만 나옴: 화정아이꿈누리도서관",
-   "since": "2026-11-27"
-  }
- },
+ "libraries": {},
  "dataVersion": 1795781890
 }
